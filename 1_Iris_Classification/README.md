@@ -33,7 +33,7 @@ To perform clustering on the Iris dataset and analyze the natural groupings amon
 
 ## Files Included
 
-- `Iris_Classification.ipynb` – Googlee Colab notebook containing the full analysis and results.
+- `Iris_Classification.ipynb` – Google Colab notebook containing the full analysis and results.
 - `README.md` – Project summary and explanation.
 
 ## Acknowledgement
